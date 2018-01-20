@@ -14,7 +14,7 @@ import at.pollux.thymeleaf.shiro.dialect.ShiroDialect;
 public class ShiroRedisExampleBoot extends SpringBootServletInitializer {
 
 	/**
-	 * 增加Shiro模板引擎
+	 * 增加Shiro模板引擎11
 	 * 
 	 * @return
 	 */
